@@ -21,7 +21,7 @@ function NavTop() {
                 <Container>
                 <Navbar.Brand>
                     <Link className="navbar-title" to="/">
-                        GuessYour<span className="change">Crush</span>
+                        Tebak<span className="change">Crush!</span>
                     </Link>
                 </Navbar.Brand>
                 <button className="toggle-menu" onClick={toggleClick}>

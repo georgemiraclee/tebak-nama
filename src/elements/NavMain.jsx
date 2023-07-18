@@ -9,7 +9,7 @@ function NavMain(props) {
                 <Container>
                 <Navbar.Brand>
                     <Link className="navbar-title" to="/">
-                        GuessYour<span className="change">Crush</span>
+                        Tebak<span className="change">Crush!</span>
                     </Link>
                     <p className="length-counter m-0">{!props.children ? '0' : props.children} Huruf</p>
                 </Navbar.Brand>
