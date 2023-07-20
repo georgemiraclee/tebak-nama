@@ -320,13 +320,13 @@ function Crush() {
                             <img className="information-image" width="120px" src={Information} alt="Information" />
                         </div>
                         <div className="information-child">
-                            <p><strong>GuessYourCrush</strong> tidak akan menyimpan data yang anda masukkan</p>
+                            <p><strong>TebakCrush</strong> gak bakal nyimpen data gebetan lo yang dimasukin XIXIXI</p>
                         </div>
                     </Container>
                 </Modal.Body>
                 <Modal.Footer>
                     <Button variant="secondary" className="shadow-none" onClick={handleCloseInfo}>
-                        Mengerti
+                        Woke, diem diem ya
                     </Button>
                 </Modal.Footer>
             </Modal>
@@ -337,7 +337,7 @@ function Crush() {
                         <h3 className="main-title"><span className="step-number">1</span> Pilih berapa huruf pada nama yang akan ditebak</h3>
                         <ButtonGroup>
                             <Button className="btn-helper shadow-none" onClick={handleShow1}>Bantuan</Button>
-                            <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                            <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                         </ButtonGroup>
                         <Modal show={show1} onHide={handleClose1} centered>
                             <Modal.Header>
@@ -404,7 +404,7 @@ function Crush() {
                             <h3 className="main-title text-center"><span className="step-number">2</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                             <ButtonGroup>
                                 <Button className="btn-helper shadow-none" onClick={handleShow2}>Bantuan</Button>
-                                <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                                <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                             </ButtonGroup>
                             <Modal show={show2} onHide={handleClose2} centered>
                                 <Modal.Header className="justify-content-center">
@@ -464,7 +464,7 @@ function Crush() {
                     <h3 className="main-title text-center"><span className="step-number">3</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                     <ButtonGroup>
                         <Button className="btn-helper shadow-none" onClick={handleShow3}>Bantuan</Button>
-                        <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                        <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                     </ButtonGroup>
                     <Modal show={show3} onHide={handleClose3} centered>
                         <Modal.Header className="justify-content-center">
@@ -522,7 +522,7 @@ function Crush() {
                             <h3 className="main-title text-center"><span className="step-number">2</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                             <ButtonGroup>
                                 <Button className="btn-helper shadow-none" onClick={handleShow2}>Bantuan</Button>
-                                <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                                <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                             </ButtonGroup>
                             <Modal show={show2} onHide={handleClose2} centered>
                                 <Modal.Header className="justify-content-center">
@@ -578,7 +578,7 @@ function Crush() {
                     <h3 className="main-title text-center"><span className="step-number">3</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                     <ButtonGroup>
                         <Button className="btn-helper shadow-none" onClick={handleShow3}>Bantuan</Button>
-                        <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                        <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                     </ButtonGroup>
                     <Modal show={show3} onHide={handleClose3} centered>
                         <Modal.Header className="justify-content-center">
@@ -638,7 +638,7 @@ function Crush() {
                             <h3 className="main-title text-center"><span className="step-number">2</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                             <ButtonGroup>
                                 <Button className="btn-helper shadow-none" onClick={handleShow2}>Bantuan</Button>
-                                <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                                <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                             </ButtonGroup>
                             <Modal show={show2} onHide={handleClose2} centered>
                                 <Modal.Header className="justify-content-center">
@@ -692,7 +692,7 @@ function Crush() {
                     <h3 className="main-title text-center"><span className="step-number">3</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                     <ButtonGroup>
                         <Button className="btn-helper shadow-none" onClick={handleShow3}>Bantuan</Button>
-                        <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                        <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                     </ButtonGroup>
                     <Modal show={show3} onHide={handleClose3} centered>
                         <Modal.Header className="justify-content-center">
@@ -754,7 +754,7 @@ function Crush() {
                             <h3 className="main-title text-center"><span className="step-number">2</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                             <ButtonGroup>
                                 <Button className="btn-helper shadow-none" onClick={handleShow2}>Bantuan</Button>
-                                <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                                <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                             </ButtonGroup>
                             <Modal show={show2} onHide={handleClose2} centered>
                                 <Modal.Header className="justify-content-center">
@@ -806,7 +806,7 @@ function Crush() {
                     <h3 className="main-title text-center"><span className="step-number">3</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                     <ButtonGroup>
                         <Button className="btn-helper shadow-none" onClick={handleShow3}>Bantuan</Button>
-                        <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                        <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                     </ButtonGroup>
                     <Modal show={show3} onHide={handleClose3} centered>
                         <Modal.Header className="justify-content-center">
@@ -870,7 +870,7 @@ function Crush() {
                             <h3 className="main-title text-center"><span className="step-number">2</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                             <ButtonGroup>
                                 <Button className="btn-helper shadow-none" onClick={handleShow2}>Bantuan</Button>
-                                <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                                <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                             </ButtonGroup>
                             <Modal show={show2} onHide={handleClose2} centered>
                                 <Modal.Header className="justify-content-center">
@@ -920,7 +920,7 @@ function Crush() {
                     <h3 className="main-title text-center"><span className="step-number">3</span> Pilih baris mana saja yang terdapat huruf pada nama yang akan ditebak</h3>
                     <ButtonGroup>
                         <Button className="btn-helper shadow-none" onClick={handleShow3}>Bantuan</Button>
-                        <Button className="btn-reset shadow-none" onClick={resetAll}>Reset</Button>
+                        <Button className="btn-reset shadow-none" onClick={resetAll}>Ulang</Button>
                     </ButtonGroup>
                     <Modal show={show3} onHide={handleClose3} centered>
                         <Modal.Header className="justify-content-center">
