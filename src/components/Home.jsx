@@ -13,7 +13,7 @@ function Home() {
                 <Row>
                     <Col className="wrapper-title">
                         <h1 className="content-title">Tebak nama, teman saudara atau siapapun</h1>
-                        <p className="content-desc"><strong>TebakCrush</strong> merupakan sebuah tebak tebakan berbasis web, dimana kita dapat menebak nama crush,mantan, teman atau nama yang sedang lo pikirin sekarang banget. tetapi lo cuma bisa menebak namanya terbatas  dari 3 sampai 7 huruf.<br />
+                        <p className="content-desc"><strong>TebakCrush</strong> merupakan sebuah website yang dimana kita dapat menebak nama crush,mantan, teman atau nama yang sedang lo pikirin sekarang banget. tetapi lo cuma bisa menebak namanya terbatas  dari 3 sampai 7 huruf.<br />
                         <i><strong>#PEKADIKIT&nbsp;&nbsp;#TEBAKCRUSH&nbsp;&nbsp;#SIAPACRUSHLO</strong></i>
                         </p>
                         <Link className="content-button" to="/start">Mulai <BiPlayCircle className="content-icon py-1" /></Link>
