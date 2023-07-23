@@ -20,7 +20,7 @@ function Home() {
                         <Link className="content-button2 ms-3" to="/cara-main">Cara Bermain ?</Link>
                     </Col>
                     <Col className="text-center wrapper-image">
-                        <img className="home-image" width="80%" src={GYC} alt="GuessYourCrush" />
+                        <img className="home-image" width="80%" src={GYC} alt="TebakCrush" />
                     </Col>
                 </Row>
             </Container>

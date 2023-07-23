@@ -48,7 +48,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>GuessYourCrush</title>
+        <title>Tebak Crush!</title>
       </Helmet>
       <Routes>
         <Route path="/" element={<Home />}></Route>

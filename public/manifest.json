@@ -1,7 +1,7 @@
 {
-  "short_name": "Guess Your Name",
-  "name": "Guess Your Name",
-  "description": "Tebak nama teman, crush kamu atau siapapun itu",
+  "short_name": "TebakCrush",
+  "name": "TebakCrush",
+  "description": "Tebak nama gebetan, temen, pacar lo",
   "icons": [
     {
       "src": "favicon.ico",

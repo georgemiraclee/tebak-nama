@@ -343,7 +343,7 @@ function Crush() {
                             <Modal.Header>
                                 <Modal.Title className="modal-title">Bantuan #1</Modal.Title>
                             </Modal.Header>
-                            <Modal.Body>Kamu diminta untuk memilih berapa huruf yang terdapat di nama yang akan ditebak. Contohnya B-A-K-W-A-N yang terdiri dari 6 huruf. Untuk panjang huruf nama yang bisa ditebak oleh <strong>GuessYourCrush</strong> itu <i><u>minimal terdiri dari 3 huruf dan maksimal terdiri dari 7 huruf</u>.</i></Modal.Body>
+                            <Modal.Body>Kamu diminta untuk memilih berapa huruf yang terdapat di nama yang akan ditebak. Contohnya B-A-K-W-A-N yang terdiri dari 6 huruf. Untuk panjang huruf nama yang bisa ditebak oleh <strong>TebakCrush</strong> itu <i><u>minimal terdiri dari 3 huruf dan maksimal terdiri dari 7 huruf</u>.</i></Modal.Body>
                             <Modal.Footer>
                                 <Button variant="danger shadow-none" onClick={handleClose1}>
                                     Tutup
